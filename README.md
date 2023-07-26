@@ -51,16 +51,19 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Preview Of URL Shorter Website
 The main goal of this website is to shorten very long URLs
-![image](https://github.com/thanushan128/url_shorter_website/assets/126770666/9e45433e-fb1a-42bc-b8d5-cebec1af2aed)
+![image](https://github.com/thanushan128/URL-Shorter-Website/assets/126770666/4e69c42d-8a17-4f11-95ea-831c3f727d81)
+
 
 Let's look a one example
 Original URL : https://raygun.com/blog/oop-concepts-java/#:~:text=Java%20supports%20object%2Doriented%20programming,harming%20performance%20and%20code%20readability.
 ## Input
-![image](https://github.com/thanushan128/url_shorter_website/assets/126770666/54d821cd-f90e-48cf-930b-9f88340d38fb)
+![image](https://github.com/thanushan128/URL-Shorter-Website/assets/126770666/20d74413-4f99-4c37-baf0-0db996c27548)
+
 
 ## OutPut
 Shorter URL : http://127.0.0.1:8000/mMRR60
-![image](https://github.com/thanushan128/url_shorter_website/assets/126770666/e25af9ae-be49-445b-98be-8b93c8d166b9)
+![image](https://github.com/thanushan128/URL-Shorter-Website/assets/126770666/575f5cc9-54a5-4f41-90b4-c89b71dbaa43)
+
 
 
 ## Contributing
